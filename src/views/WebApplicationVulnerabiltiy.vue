@@ -8,9 +8,7 @@
           <div class="waviy">
             <span style="--i: 1">Effective_Web_Application_</span>
             <span style="--i: 2">Vulnerability_Testing_System</span>
-            <span style="--i: 3">_</span>
-            <span style="--i: 4">using_</span>
-            <span style="--i: 5">XSS_SQL_Scanning_Algorithm</span>
+            
           </div>
         </div>
       </div>
