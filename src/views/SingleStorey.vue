@@ -65,7 +65,7 @@
             <p><strong>Git Hub</strong></p>
             <a
               href="https://github.com/ThinzarAung24/EstimatingCostofSingleStorey"
-              >https://github.com/ThinzarAung24/EstimatingCostofSingleStorey</a
+              ><i class="fab fa-github"> </i> Estimating Cost of Single Storey </a
             >
           </div>
         </v-col>

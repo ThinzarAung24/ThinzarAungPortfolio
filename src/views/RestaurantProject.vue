@@ -67,7 +67,7 @@
             <p><strong>Git Hub</strong></p>
             <p>
               <a href="https://github.com/ThinzarAung24/RestaurantOrderService-POS-system-">
-                <i class="fab fa-github"></i>Go to My Git Hub Page
+                <i class="fab fa-github"></i> Restaurant Order Service System
               </a>
             </p>
           </div>
