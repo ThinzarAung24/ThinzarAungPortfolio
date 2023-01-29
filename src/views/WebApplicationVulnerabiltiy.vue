@@ -24,6 +24,7 @@
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
+            controls
           ></iframe>
         </v-col>
         <v-col cols="12" md="6">
@@ -48,7 +49,7 @@
             <p>
               <a
                 href="https://github.com/ThinzarAung24/WebApplicationVulnerabilityTestingSystem-XSS-SQL-"
-                ><i class="fab fa-github"> </i>Web Application Vulnerabiltiy Testing System</a
+                ><i class="fab fa-github"> </i>Web's Vulnerabiltiy Testing System</a
               >
             </p>
           </div>
