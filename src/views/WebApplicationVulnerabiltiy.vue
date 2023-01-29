@@ -48,7 +48,7 @@
             <p>
               <a
                 href="https://github.com/ThinzarAung24/WebApplicationVulnerabilityTestingSystem-XSS-SQL-"
-                >https://github.com/ThinzarAung24/WebApplicationVulnerabilityTestingSystem-XSS-SQL-</a
+                ><i class="fab fa-github"> </i>Web Application Vulnerabiltiy Testing System</a
               >
             </p>
           </div>
