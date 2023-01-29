@@ -4,11 +4,11 @@
     <v-container fluid>
       <div class="main-title">
         <div class="header">
-          <div class="waviy4">
+          <!-- <h2>RESTAURNANT ORDER SYSTEM</h2> -->
+          <div class="waviy">
             <span style="--i: 1"
-              >Effective Web Application Vulnerability Testing System<br />
-              using <br />
-              XSS_SQL_Scanning_Algorithm</span
+              >Effective Web Application Vulnerability Testing System
+              <br />using XSS_SQL_Scanning_Algorithm</span
             >
           </div>
         </div>
@@ -24,7 +24,6 @@
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
-            controls
           ></iframe>
         </v-col>
         <v-col cols="12" md="6">
@@ -49,8 +48,9 @@
             <p>
               <a
                 href="https://github.com/ThinzarAung24/WebApplicationVulnerabilityTestingSystem-XSS-SQL-"
-                ><i class="fab fa-github"> </i>Web Vulnerabiltiy Testing System</a
               >
+                <i class="fab fa-github"></i> Web's Vulnerability Testing System
+              </a>
             </p>
           </div>
         </v-col>
@@ -71,7 +71,7 @@ export default {
 <style>
 .header {
   /* background-color: #f1f1f1; */
-  padding: 30px;
+  padding: 50px;
   text-align: center;
   font-size: 35px;
 }
@@ -81,18 +81,23 @@ export default {
   padding: 10px;
   text-align: left;
 }
-.waviy4 {
+.waviy {
   position: relative;
+  color: white;
 }
-.waviy4 span {
+.waviy span {
   position: relative;
   display: inline-block;
-  font-size: 25px;
+  font-size: 35px;
   color: black;
   text-transform: uppercase;
-  animation: flip 7s infinite;
-  animation-delay: calc(7s * var(--i));
+  animation: flip 3s infinite;
+  animation-delay: calc(3s * var(--i));
   color: white;
+}
+
+.about {
+  background-color: rgba(68, 110, 158, 0.888);
 }
 @keyframes flip {
   0%,
@@ -100,6 +105,7 @@ export default {
     transform: rotateY(360deg);
   }
 }
+
 iframe {
   max-width: 100%;
 }
