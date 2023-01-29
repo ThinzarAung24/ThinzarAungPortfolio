@@ -6,8 +6,11 @@
         <div class="header">
           <!-- <h2>RESTAURNANT ORDER SYSTEM</h2> -->
           <div class="waviy">
-            <span style="--i: 1"
-              >Effective Web Application Vulnerability Testing System using XSS_SQL_Scanning_Algorithm</span>
+            <span style="--i: 1">Effective_Web_Application_</span>
+            <span style="--i: 2">Vulnerability_Testing_System</span>
+            <span style="--i: 3">_</span>
+            <span style="--i: 4">using_</span>
+            <span style="--i: 5">XSS_SQL_Scanning_Algorithm</span>
           </div>
         </div>
       </div>
