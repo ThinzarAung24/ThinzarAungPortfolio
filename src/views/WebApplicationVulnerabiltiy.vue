@@ -8,9 +8,9 @@
           <div class="waviy5">
             <span style="--i: 1">Effective_Web_Application_</span>
             <span style="--i: 2">Vulnerability_Testing_System</span>
-            <span style="--i: 3">_</span>
+            <!-- <span style="--i: 3">_</span>
             <span style="--i: 4">using_</span>
-            <span style="--i: 5">XSS_SQL_Scanning_Algorithm</span>
+            <span style="--i: 5">XSS_SQL_Scanning_Algorithm</span> -->
           </div>
         </div>
       </div>
@@ -89,7 +89,7 @@ export default {
 .waviy5 span {
   position: relative;
   display: inline-block;
-  font-size: 20px;
+  font-size: 30px;
   color: black;
   text-transform: uppercase;
   animation: flip 3s infinite;
