@@ -3,62 +3,66 @@
     <NavBar />
     <v-spacer></v-spacer>
     <v-container fluid>
-    <h2>
-      <strong
-        ><div class="waviy3">
-          <span style="--i: 1">M</span>
-          <span style="--i: 2">y</span>
-          <span style="--i: 3">_</span>
-          <span style="--i: 4">P</span>
-          <span style="--i: 5">O</span>
-          <span style="--i: 6">R</span>
-          <span style="--i: 7">T</span>
-          <span style="--i: 8">F</span>
-          <span style="--i: 9">O</span>
-          <span style="--i: 10">L</span>
-          <span style="--i: 11">I</span>
-          <span style="--i: 12">O</span>
-        </div></strong
-      >
-    </h2>
-    <v-row>
-      <v-col cols="12" md="6">
-        <center>
-          <v-card
-            class="mx-auto"
-            max-width="600"
-            height="400"
-            color="rgb(251, 249, 243, 0.8)"
-            :img="require('../assets/bg.jpg')"
-          >
-            <div style="position: relative" class="mt-16">
-              <div class="animate-charcter">
-                <br /><br /><br />
+      <h2>
+        <strong
+          ><div class="waviy3">
+            <span style="--i: 1">M</span>
+            <span style="--i: 2">y</span>
+            <span style="--i: 3">_</span>
+            <span style="--i: 4">P</span>
+            <span style="--i: 5">O</span>
+            <span style="--i: 6">R</span>
+            <span style="--i: 7">T</span>
+            <span style="--i: 8">F</span>
+            <span style="--i: 9">O</span>
+            <span style="--i: 10">L</span>
+            <span style="--i: 11">I</span>
+            <span style="--i: 12">O</span>
+          </div></strong
+        >
+      </h2>
+      <v-row>
+        <v-col cols="12" md="6">
+          <center>
+            <v-card
+              class="mx-auto"
+              max-width="600"
+              height="400"
+              color="rgb(251, 249, 243, 0.8)"
+              :img="require('../assets/bg.jpg')"
+            >
+              <div style="position: relative" class="mt-16">
+                <div class="animate-charcter">
+                  <br /><br /><br />
 
-                <h1>Hello!!!</h1>
-                <h5>I'm</h5>
-                <h3>THINZAR AUNG</h3>
-                <h4>Web Developer</h4>
+                  <h1>Hello!!!</h1>
+                  <h5>I'm</h5>
+                  <h3>THINZAR AUNG</h3>
+                  <h4>Web Developer</h4>
+                </div>
+                <br />
               </div>
-              <br />
-              <v-btn color="orange lighten-2" to="/contact" dark>
-                Contact Me
-              </v-btn>
-            </div>
-          </v-card>
-        </center>
-      </v-col>
-      <v-col cols="12" md="6">
-        <v-img
-          class="portfolio"
-          src="2.png"
-          contain
-          max-height="800px"
-          max-width="800px"
-        ></v-img>
-      </v-col>
-      <!-- <v-col cols="12" md="2"></v-col> -->
-    </v-row>
+              <v-card-actions>
+                
+                <v-btn color="orange lighten-2" to="/contact" dark >
+                  CONTACT ME
+                </v-btn>
+              </v-card-actions>
+            
+            </v-card>
+          </center>
+        </v-col>
+        <v-col cols="12" md="6">
+          <v-img
+            class="portfolio"
+            src="2.png"
+            contain
+            max-height="800px"
+            max-width="800px"
+          ></v-img>
+        </v-col>
+        <!-- <v-col cols="12" md="2"></v-col> -->
+      </v-row>
     </v-container>
   </div>
 </template>
@@ -94,7 +98,7 @@ export default {
 }
 
 h3 {
-  font-size: 80px;
+  font-size: 60px;
 }
 
 .home {
