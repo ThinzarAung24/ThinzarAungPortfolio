@@ -4,7 +4,7 @@
     <v-container fluid>
       <div class="main-title">
         <div class="header">
-          <div class="waviy">
+          <div class="waviy4">
             <span style="--i: 1"
               >Effective Web Application Vulnerability Testing System<br />
               using <br />
@@ -49,7 +49,7 @@
             <p>
               <a
                 href="https://github.com/ThinzarAung24/WebApplicationVulnerabilityTestingSystem-XSS-SQL-"
-                ><i class="fab fa-github"> </i>Web's Vulnerabiltiy Testing System</a
+                ><i class="fab fa-github"> </i>Web Vulnerabiltiy Testing System</a
               >
             </p>
           </div>
@@ -81,10 +81,10 @@ export default {
   padding: 10px;
   text-align: left;
 }
-.waviy {
+.waviy4 {
   position: relative;
 }
-.waviy span {
+.waviy4 span {
   position: relative;
   display: inline-block;
   font-size: 25px;
