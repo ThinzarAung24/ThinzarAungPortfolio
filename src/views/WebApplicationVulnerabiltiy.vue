@@ -5,12 +5,9 @@
       <div class="main-title">
         <div class="header">
           <!-- <h2>RESTAURNANT ORDER SYSTEM</h2> -->
-          <div class="waviy5">
-            <span style="--i: 1">Effective_Web_Application_</span>
-            <span style="--i: 2">Vulnerability_Testing_System</span>
-            <!-- <span style="--i: 3">_</span>
-            <span style="--i: 4">using_</span>
-            <span style="--i: 5">XSS_SQL_Scanning_Algorithm</span> -->
+          <div class="waviy">
+            <span style="--i: 1"
+              >Web Application Vulnerability Testing System</span>
           </div>
         </div>
       </div>
@@ -82,14 +79,14 @@ export default {
   padding: 10px;
   text-align: left;
 }
-.waviy5 {
+.waviy {
   position: relative;
   color: white;
 }
-.waviy5 span {
+.waviy span {
   position: relative;
   display: inline-block;
-  font-size: 30px;
+  font-size: 35px;
   color: black;
   text-transform: uppercase;
   animation: flip 3s infinite;
