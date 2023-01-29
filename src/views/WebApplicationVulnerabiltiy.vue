@@ -7,8 +7,7 @@
           <!-- <h2>RESTAURNANT ORDER SYSTEM</h2> -->
           <div class="waviy">
             <span style="--i: 1"
-              >Effective Web Application Vulnerability Testing System
-              <br />using XSS_SQL_Scanning_Algorithm</span>
+              >Effective Web Application Vulnerability Testing System using XSS_SQL_Scanning_Algorithm</span>
           </div>
         </div>
       </div>
