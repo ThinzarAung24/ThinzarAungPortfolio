@@ -66,8 +66,8 @@
           <div class="footer">
             <p><strong>Git Hub</strong></p>
             <p>
-              <a>
-                https://github.com/ThinzarAung24/RestaurantOrderService-POS-system-
+              <a href="https://github.com/ThinzarAung24/RestaurantOrderService-POS-system-">
+                <i class="fab fa-github"></i>Go to My Git Hub Page
               </a>
             </p>
           </div>
