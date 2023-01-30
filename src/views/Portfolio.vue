@@ -37,6 +37,7 @@
             <v-card-title> Restaurant Order Service System </v-card-title>
 
             <v-card-subtitle> Vue JS, CSS, SPRING BOOT (JAVA) </v-card-subtitle>
+            <v-card-subtitle> <i class="fa-solid fa-calendar-days"></i> 22/1/2023</v-card-subtitle>
             <v-divider></v-divider>
 
             <v-card-actions>
@@ -98,6 +99,7 @@
               <v-card-title> Web Vulnerability Testing System </v-card-title>
 
               <v-card-subtitle> PYTHON </v-card-subtitle>
+               <v-card-subtitle> <i class="fa-solid fa-calendar-days"></i> 28/1/2021</v-card-subtitle>
             </div>
             <v-divider></v-divider>
 
@@ -163,6 +165,7 @@
               <v-card-title> Estimating Cost of Single-Storey </v-card-title>
 
               <v-card-subtitle> C# </v-card-subtitle>
+              <v-card-subtitle> <i class="fa-solid fa-calendar-days"></i> 2018</v-card-subtitle>
             </div>
             <v-divider></v-divider>
 
@@ -225,6 +228,7 @@
               <v-card-title> Ko Yin Lay Village </v-card-title>
 
               <v-card-subtitle> JAVE (ANDROID STUDIO) </v-card-subtitle>
+              <v-card-subtitle> <i class="fa-solid fa-calendar-days"></i> 2018</v-card-subtitle>
             </div>
             <v-divider></v-divider>
 
