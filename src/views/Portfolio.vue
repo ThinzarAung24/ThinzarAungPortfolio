@@ -227,7 +227,7 @@
             <div class="colorCard">
               <v-card-title> Ko Yin Lay Village </v-card-title>
 
-              <v-card-subtitle> JAVE (ANDROID STUDIO) </v-card-subtitle>
+              <v-card-subtitle> JAVA (ANDROID STUDIO) </v-card-subtitle>
               <v-card-subtitle> <i class="fa-solid fa-calendar-days"></i> 2018</v-card-subtitle>
             </div>
             <v-divider></v-divider>
