@@ -37,16 +37,7 @@
                     And I am interested in teaching because of enthusiastic
                     about sharing my knowledge.<br />
                     <br /><br />
-                    <h5>
-                      <div class="btn-container">
-                        <a href="https://drive.google.com/file/d/1vuCr2jx-_WVnBeoKlQdDys--zHHvvHx2/view?usp=drive_link" class="down-btn">
-                          <span class="btn-icon-down">
-                            <i class="fas fa-download"></i>
-                          </span>
-                        </a>
-                        <span class="btn-text-down">Download Resume</span>
-                      </div>
-                    </h5>
+                   
                   </h2>
                 </v-card-text>
               </v-col>
