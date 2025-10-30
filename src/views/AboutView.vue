@@ -39,7 +39,7 @@
                     <br /><br />
                     <h5>
                       <div class="btn-container">
-                        <a href="https://drive.google.com/file/d/1NuDYHunaa8soggGLwrP0P-eJDsXmtFPa/view?usp=sharing" class="down-btn">
+                        <a href="https://drive.google.com/file/d/1vuCr2jx-_WVnBeoKlQdDys--zHHvvHx2/view?usp=drive_link" class="down-btn">
                           <span class="btn-icon-down">
                             <i class="fas fa-download"></i>
                           </span>
